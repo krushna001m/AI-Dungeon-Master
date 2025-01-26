@@ -49,4 +49,4 @@ This project is licensed under the MIT License. Feel free to use and modify it f
 
 ---
 
-© 2025 Krushna Mengal & Team
+© 2025 | Krushna Mengal & Team
