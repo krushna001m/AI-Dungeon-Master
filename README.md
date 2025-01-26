@@ -4,10 +4,10 @@ AI Dungeon Master is a simple text-based adventure game powered by JavaScript. D
 
 # Content
 - [Features](#Features)
-- [Technologies Used](#Technologies Used)
-- [How to Play](#How to Play)
-- [Project Structure](#Project Structure)
-- [Setup Instructions](#tSetup Instructions)
+- [Technologies_Used](#Technologies_Used)
+- [How_to_Play](#How_to_Play)
+- [Project_Structure](#Project_Structure)
+- [Setup_Instructions](#tSetup_Instructions)
 - [Demo](#Demo)
 - [Contact](#contact)
 ## Features
@@ -16,26 +16,26 @@ AI Dungeon Master is a simple text-based adventure game powered by JavaScript. D
 - **Dynamic Storytelling:** The game responds to your inputs to provide an engaging adventure.
 - **Reset Functionality:** Restart the game at any point for a fresh experience.
 
-## Technologies Used
+## Technologies_Used
 
 - **HTML:** For the structure of the web application.
 - **CSS:** To style the game interface.
 - **JavaScript:** Implements the game logic and user interactions.
 
-## How to Play
+## How_to_Play
 
 1. Open the application in your browser.
 2. Enter your actions in the input field and press the "Submit" button.
 3. Follow the storyline and make decisions that affect the outcome.
 4. Click "Reset" to restart the game at any time.
 
-## Project Structure
+## Project_Structure
 
 - **index.html:** Contains the HTML structure of the game.
 - **styles.css:** Defines the styles and layout of the game interface.
 - **game.js:** Implements the game logic and interactions.
 
-## Setup Instructions
+## Setup_Instructions
 
 1. Clone this repository:
    ```bash
