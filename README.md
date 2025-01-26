@@ -53,8 +53,7 @@ You can try the live version of the game [here](https://krushna001m.github.io/AI
 
 ### Contact
 
-<a href="https://github.com/krushna001m"></a>
-
+<a href="https://github.com/krushna001m"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff"/></a>
 
 ## License
 
