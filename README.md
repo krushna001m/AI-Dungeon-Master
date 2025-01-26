@@ -2,6 +2,14 @@
 
 AI Dungeon Master is a simple text-based adventure game powered by JavaScript. Dive into an exciting world of exploration, puzzles, and adventure as you make choices to shape your story.
 
+# Content
+- [Features](#Features)
+- [Technologies Used](#Technologies Used)
+- [How to Play](#How to Play)
+- [Project Structure](#Project Structure)
+- [Setup Instructions](#tSetup Instructions)
+- [Demo](#Demo)
+- [Contact](#contact)
 ## Features
 
 - **Interactive Gameplay:** Make choices and experience branching storylines.
@@ -42,6 +50,11 @@ AI Dungeon Master is a simple text-based adventure game powered by JavaScript. D
 ## Demo
 
 You can try the live version of the game [here](https://krushna001m.github.io/AI-Dungeon-Master/).
+
+### Contact
+
+<a href="https://github.com/krushna001m"></a>
+
 
 ## License
 
