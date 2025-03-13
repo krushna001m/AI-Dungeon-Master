@@ -24,10 +24,7 @@ AI Dungeon Master is a simple text-based adventure game powered by JavaScript. D
 
 ## How_to_Play
 
-1. Open the application in your browser.
-2. Enter your actions in the input field and press the "Submit" button.
-3. Follow the storyline and make decisions that affect the outcome.
-4. Click "Reset" to restart the game at any time.
+
 
 ## Project_Structure
 
