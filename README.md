@@ -1,6 +1,5 @@
 # AI-Dungeon-Master
 
-AI Dungeon Master is a simple text-based adventure game powered by JavaScript. Dive into an exciting world of exploration, puzzles, and adventure as you make choices to shape your story.
 
 # Content
 - [Features](#Features)
